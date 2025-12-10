@@ -1,5 +1,5 @@
 # wrangler.toml
-name = 'edgetunnel'
+name = 'ywbproxy'
 main = "_worker.js"
 compatibility_date = "2025-12-10"
 keep_vars = true
@@ -8,4 +8,5 @@ keep_vars = true
 #binding = "KV"			#KV绑定名默认不可修改
 
 #id = ""				#KV数据库id
+
 
