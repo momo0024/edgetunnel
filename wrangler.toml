@@ -1,5 +1,5 @@
 # wrangler.toml
-name = 'ywb-dev-xy'
+name = 'little-block-7539'
 main = "_worker.js"
 compatibility_date = "2025-12-10"
 keep_vars = true
